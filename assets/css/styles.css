@@ -265,9 +265,9 @@ a {
 .mini-separator {
   padding: 20px 0; }
   
-  section {
-    //padding: 60px 0;
-    //padding-bottom: 30px;
+section {
+    /* padding: 60px 0;
+    padding-bottom: 30px; */
 }
 
 /**
@@ -1558,6 +1558,14 @@ body {
     margin: 0 auto;
     margin-bottom: 20px;
     border-radius: 50%; }
+  .mh-testimonial .mh-client-item div {
+    font-size: 80px;
+    color: #0bceaf;
+    width: inherit;
+    float: none;
+    border: 5px solid #0bceaf;
+    padding: 10px;
+}
   .mh-testimonial .mh-client-item p {
     margin: 10px 0; }
     .mh-testimonial .mh-client-item p::before {
