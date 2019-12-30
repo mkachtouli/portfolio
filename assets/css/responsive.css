@@ -309,6 +309,9 @@
   .mh-testimonial .mh-client-item div {
     font-size: 50px;
   }
+  .mh-testimonial .each-client-item {
+    margin: 30px 6px;
+  }
   .mh-blog .mh-blog-item {
     text-align: center; }
 
