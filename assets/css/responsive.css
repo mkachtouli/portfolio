@@ -306,6 +306,9 @@
   .mh-home .mh-header-info h2 {
     font-size: 30px;
   }
+  .mh-testimonial .mh-client-item div {
+    font-size: 50px;
+  }
   .mh-blog .mh-blog-item {
     text-align: center; }
 
